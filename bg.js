@@ -1,6 +1,6 @@
 const body = document.querySelector("body");
 
-const IMG_NUMBER = 7;
+const IMG_NUMBER = 5;
 
 // when load images from API
 function handleImgLoad() {
